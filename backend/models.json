@@ -1,0 +1,14 @@
+{
+  "Model 1": {
+    "wins": 0,
+    "total_confidence": 0,
+    "count": 0,
+    "average_confidence": 0
+  },
+  "Model 2": {
+    "wins": 0,
+    "total_confidence": 0,
+    "count": 0,
+    "average_confidence": 0
+  }
+}

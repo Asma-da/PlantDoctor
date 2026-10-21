@@ -1,0 +1,53 @@
+[
+  {
+    "id": "admin-001",
+    "username": "admin",
+    "password": "$2b$12$Baw75z00SnmF9JWnVMHtROmYMzpMq6uuDuFgx7Z2SaEd8qizhG0B.",
+    "role": "admin",
+    "created_at": "2025-11-30T18:00:50.132263",
+    "stats": {
+      "total_points": 0,
+      "total_scans": 0,
+      "plants_saved": 0,
+      "diseases_found": 0,
+      "healthy_plants": 0,
+      "perfect_scans": 0,
+      "average_accuracy": 0,
+      "badges_earned": 0
+    }
+  },
+  {
+    "id": "user-001",
+    "username": "testuser",
+    "password": "$2b$12$.jk4rfRMq3eiMtYBAHptfubO1wMbarAkisGu2zl9d2m602j09qLRy",
+    "role": "user",
+    "created_at": "2025-11-30T18:00:50.610866",
+    "stats": {
+      "total_points": 150,
+      "total_scans": 3,
+      "plants_saved": 2,
+      "diseases_found": 2,
+      "healthy_plants": 1,
+      "perfect_scans": 1,
+      "average_accuracy": 88.5,
+      "badges_earned": 2
+    }
+  },
+  {
+    "id": "ecc7981b-24ad-4dcf-a7ff-55eb9f0fbb7b",
+    "username": "test",
+    "password": "$2b$12$iO.ZbL3CB6LEQ8KOFmws0e59kFxGelCpxqPSSYEGJFvjUh0dSQ8IK",
+    "role": "user",
+    "created_at": "2025-11-30T18:02:42.395802",
+    "stats": {
+      "total_points": 0,
+      "total_scans": 0,
+      "plants_saved": 0,
+      "diseases_found": 0,
+      "healthy_plants": 0,
+      "perfect_scans": 0,
+      "average_accuracy": 0,
+      "badges_earned": 0
+    }
+  }
+]

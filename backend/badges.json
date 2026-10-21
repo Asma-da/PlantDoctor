@@ -1,0 +1,16 @@
+[
+  {
+    "username": "testuser",
+    "name": "First Steps",
+    "emoji": "\ud83c\udf31",
+    "unlocked_at": "2025-11-30T18:00:50.614241",
+    "description": "Complete your first plant analysis"
+  },
+  {
+    "username": "testuser",
+    "name": "Eagle Eye",
+    "emoji": "\ud83d\udc41\ufe0f",
+    "unlocked_at": "2025-11-30T18:00:50.614241",
+    "description": "Achieve 3 perfect scans (95%+ accuracy)"
+  }
+]
